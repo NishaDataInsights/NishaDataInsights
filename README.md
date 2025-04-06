@@ -16,11 +16,10 @@ Here are some of the technologies I've worked with:
 
 
   * *Programming Languages:* Python, SQL
-  * *Databases:* Oracle, PostgreSQL, Microsoft SQL Server
+  * *Databases:* Microsoft SQL Server
   * *Spreadsheet:* Excel 
   * *Version Control:* Git, Github
   * *Documentation:* Confluence
-  * *Project Management:* Jira
   * *Data Visualization/BI Tools:* Microsoft Power BI, Tableau
 
 
