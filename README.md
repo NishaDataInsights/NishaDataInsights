@@ -7,7 +7,8 @@
 
 <img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif?w=826"/>
 
-I'm a professional Data analytics with over 1 years of experience transforming raw data into meaningful insights. Passionate about solving complex data problems, I have a proven track record of implementing scalable data pipelines and analytics solutions that drive strategic decisions. Here's a bit about what I do and what I love in the realm of data analytics.
+Aspiring Data Analyst | Passionate about Turning Data into Stories, Insights & Impact
+Currently diving deep into data analytics—learning to clean, explore, and visualize data that drives decisions. On a mission to turn raw data into meaningful narratives that create real-world impact.
 
 🛠 *Tech Stack*
 
