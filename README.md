@@ -2,6 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-rana-185189216/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:nisharanakv123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-teal?style=flat&logo=Internet%20Explorer&logoColor=white)](https://nishadatainsights.github.io/Nisha-Portfolio/)
+
 
 <img width="55%" align="right" alt="Github" src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif?w=826"/>
 
